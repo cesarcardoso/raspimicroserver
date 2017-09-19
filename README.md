@@ -1,4 +1,4 @@
 # Raspberry Pi Zero/Zero W Micro-Server
-Um guia de configuração do Raspberry Pi Zero W para ser um "micro-servidor" portátil
+Um guia de configuração do Raspberry Pi Zero W para ser um "micro-servidor" portátil, pensando como expansão de .
 
-Este guia é uma expansão de items técnicos deste post no Medium.
+[Dirija-se ao Wiki](https://github.com/cesarcardoso/raspimicroserver/wiki)
